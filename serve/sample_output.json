@@ -1,0 +1,15 @@
+{
+  "predictions": [
+    {
+      "uid": "sample123",
+      "predicted_class": 1,
+      "predicted_label": "happy",
+      "probabilities": {
+        "anger": 1e-06,
+        "happy": 0.999294,
+        "neutral": 0.000659,
+        "sad": 4.6e-05
+      }
+    }
+  ]
+}

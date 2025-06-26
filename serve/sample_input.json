@@ -1,0 +1,5 @@
+{
+  "invocations": {
+    "sample123": "<base64_encoded_wav_data>"
+  }
+}
